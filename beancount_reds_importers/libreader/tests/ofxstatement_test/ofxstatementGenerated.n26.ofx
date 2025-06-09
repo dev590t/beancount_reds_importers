@@ -44,7 +44,7 @@ NEWFILEUID:NONE
             <TRNAMT>-1.50</TRNAMT>
             <FITID>fitid</FITID>
             <REFNUM>refnum</REFNUM>
-            <NAME>name</NAME>
+            <NAME>name with unicode char é</NAME>
             <CURRENCY>
               <CURSYM>EUR</CURSYM>
             </CURRENCY>
